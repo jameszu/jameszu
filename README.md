@@ -9,8 +9,8 @@
 -->
 
 
-- 🔭 I’m currently working on personal websites and random side projecs
-- 🌱 I’m currently learning C++, and improving ReactJS
+- 🔭 I’m currently a second year BAdvSci(Hons) student majoring in Computer Science
+- 🌱 I’m currently learning C++ and ReactJS
 - 👯 I’m looking to collaborate on human
 - 🤔 I’m looking for help with life, the universe and everyting
 - 💬 Ask me about anything u want, I'll google it
@@ -19,7 +19,7 @@
 - ⚡ Fun fact: 《placeholders》
 <br><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jameszu&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
+![James's github stats](https://github-readme-stats.vercel.app/api?username=jameszu&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszu&layout=compact&title_color=85b4ff)](https://github.com/anuraghazra/github-readme-stats)
 
 
