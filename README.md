@@ -48,7 +48,7 @@
 
 </html>
 
-&#8593;&#8593;&#8593;&#8593;<br>
+## &#8593;&#8593;&#8593;&#8593;<br>
 Apprently we can't do a tictactoe game in github markdown &#x1F636;
 
 
