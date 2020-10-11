@@ -23,6 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszu&layout=compact&title_color=85b4ff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## If you're board
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -46,6 +47,10 @@
 </body>
 
 </html>
+
+&#8593;&#8593;&#8593;&#8593;<br>
+Apprently we can't do a tictactoe game in github markdown &#x1F636;
+
 
 
 
