@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on human
 - 🤔 I’m looking for life, the universe and everyting 
 - 💬 Ask me about anything u want, I'll google it
-- 📫 How to reach me: Come to the University of Auckland
+- 📫 How to reach me: ~~Come to the University of Auckland~~ Email: yddjames@gmail.com or [Linkedin](https://www.linkedin.com/in/jams-you/)
 - 😄 Pronouns: person
 - ⚡ Fun fact: 《placeholders》
 <br><br>
