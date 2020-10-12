@@ -8,11 +8,11 @@
 **jameszu/jameszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
+## **~~~Looking for Internship Internship Internship!!!~~~**
 - 🔭 I’m currently a second year BAdvSci(Hons) student majoring in Computer Science
 - 🌱 I’m currently learning C++ and ReactJS
 - 👯 I’m looking to collaborate on human
-- 🤔 I’m looking for help with life, the universe and everyting
+- 🤔 I’m looking for life, the universe and everyting 
 - 💬 Ask me about anything u want, I'll google it
 - 📫 How to reach me: Come to the University of Auckland
 - 😄 Pronouns: person
