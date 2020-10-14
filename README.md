@@ -8,7 +8,7 @@
 **jameszu/jameszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### **Looking for Internship Internship Internship**
+### **Every day is a happy day~**
 - 🔭 I’m currently a second year BAdvSci(Hons) student majoring in Computer Science
 - 🌱 I’m currently learning C++ and ReactJS
 - 👯 I’m looking to collaborate on human
