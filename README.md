@@ -1,30 +1,32 @@
 # James You
 ## From China with Love
 #### Interests
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css">
+
 <p align="left">
     <a target="_blank" href="https://dev.azure.com/msa-devops-2020-james/msa-devops-2020-james">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/First-netlify">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/First-netlify">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/>
     </a> 
     <a target="_blank" href="https://github.com/jameszu/First-netlify">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" alt="javascript" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://www.adobe.com/nz/products/photoshop.html">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+        <img src="https://www.photoshop.com/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/leetcode-time">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
     </a>
     <a target="_blank" href="https://github.com/jameszu/msa-devops-2020">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="react" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/msa-devops-2020">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
     </a>
 </p>
 
