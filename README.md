@@ -49,35 +49,7 @@
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=jameszu&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszu&layout=compact&title_color=85b4ff)](https://github.com/anuraghazra/github-readme-stats)
 
-## If you're board
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Tick-Tac-Toe</title>
-    <link rel="stylesheet" href="./tictactoe/style.css" />
-</head>
-
-<body>
-    <div class="container">
-        <h1>Tic-Tac-Toe</h1>
-        <div class="play-area">
-        </div>
-        <h2 id="winner"></h2>
-        <button onclick="reset_board()">RESET</button>
-    </div>
-    <script src="./tictactoe/app.js"></script>
-</body>
-
-</html>
-
-## &#8593;&#8593;&#8593;&#8593;<br>
-Apprently we can't do a tictactoe game in github markdown &#x1F636;
-
+# GLHF😃
 
 
 
