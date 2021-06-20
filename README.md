@@ -41,7 +41,9 @@
 - 👯 I’m looking to collaborate on human
 - 🤔 I’m looking for ~~Internship~~ life, the universe and everyting 
 - 💬 Ask me about anything u want, I'll google it
-- 📫 How to reach me: ~~Come to the University of Auckland~~ Email: yddjames@gmail.com or [Linkedin](https://www.linkedin.com/in/jams-you/)
+- 📫 How to reach me: ~~Come to the University of Auckland~~ ; ) | Email: yddjames@gmail.com or <a href="https://www.linkedin.com/in/jams-you/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 - 😄 Pronouns: person
 - ⚡ Fun fact: 《placeholders》
 <br><br>
