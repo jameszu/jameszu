@@ -36,7 +36,7 @@
 -->
 
 ### **Every day is a happy day~**
-- 🔭 I’m currently a second year BAdvSci(Hons) student majoring in Computer Science
+- 🔭 I’m currently a FOURTH/FINAL year BAdvSci(Hons) student majoring in Computer Science
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on human
 - 🤔 I’m looking for ~~Internship~~ life, the universe and everyting 
