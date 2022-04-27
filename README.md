@@ -38,7 +38,7 @@
 **jameszu/jameszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### **Every day is a happy day~**
+### **Every day is a new day~**
 - 🔭 I’m currently a FOURTH/FINAL year BAdvSci(Hons) student majoring in Computer Science
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on human
@@ -51,15 +51,14 @@
 - ⚡ Fun fact: 《placeholders》
 <br><br>
 
-<details>
-<summary> Click here to see stats</summary>
-<div>
+
+<div style="text-align: center">
 
 [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
-</details>
+
 
 # GLHF😃
 
