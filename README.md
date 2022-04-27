@@ -42,7 +42,7 @@
 - 🔭 I’m currently a FOURTH/FINAL year BAdvSci(Hons) student majoring in Computer Science
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on human
-- 🤔 I’m looking for ~~Internship~~ life, the universe and everyting 
+- 🤔 I’m looking for entry level roles, life, the universe and everyting 
 - 💬 Ask me about anything u want, I'll google it
 - 📫 How to reach me: ~~Come to the University of Auckland~~ ; ) | Email: yddjames@gmail.com or <a href="https://www.linkedin.com/in/jams-you/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
