@@ -63,7 +63,7 @@
 
 # GLHF😃
 
-
+![snake gif](https://github.com/jameszu/jameszu/blob/output/github-contribution-grid-snake.svg)
 
 
 
