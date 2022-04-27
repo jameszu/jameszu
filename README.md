@@ -30,6 +30,9 @@
     </a>
 </p>
 
+<!-- Insert your script here and it won’t show up.
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"/>
+ -->
 
 <!--
 **jameszu/jameszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,10 +51,18 @@
 - ⚡ Fun fact: 《placeholders》
 <br><br>
 
+<details>
+<summary> Click here to see stats</summary>
+<div>
+
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=jameszu&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszu&layout=compact&title_color=85b4ff)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+</details>
+
 # GLHF😃
+
 
 
 
