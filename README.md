@@ -52,7 +52,7 @@
 <br><br>
 
 
-<div style="text-align: center">
+<div align="center">
 
 [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
