@@ -55,9 +55,9 @@
 <summary> Click here to see stats</summary>
 <div>
 
-![James's github stats](https://github-readme-stats.vercel.app/api?username=jameszu&title_color=85b4ff&icon_color=85b4ff&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszu&layout=compact&title_color=85b4ff)](https://github.com/anuraghazra/github-readme-stats)
-
+[![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 </details>
 
