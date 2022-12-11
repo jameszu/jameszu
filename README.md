@@ -17,7 +17,7 @@
         <img src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" alt="javascript" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://www.adobe.com/nz/products/photoshop.html">
-        <img src="https://www.photoshop.com/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/>
+        <img src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" alt="photoshop" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/leetcode-time">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
