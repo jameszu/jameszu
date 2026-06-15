@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="250" viewBox="0 0 680 250" role="img" aria-labelledby="title desc">
+  <title id="title">Commit hours for jameszu</title>
+  <desc id="desc">311 commits from 13 public repositories</desc>
+  <style>
+    text { font-family: Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif; }
+    .title { fill: #0969da; font-size: 22px; font-weight: 600; }
+    .subtitle { fill: #57606a; font-size: 13px; }
+    .axis { fill: #57606a; font-size: 11px; }
+    .label { fill: #24292f; font-size: 12px; font-weight: 600; }
+  </style>
+  <rect x="1" y="1" width="678" height="248" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="30" y="38" class="title">Commit Hours</text>
+  <text x="30" y="58" class="subtitle">311 commits from 13 public repositories · Pacific/Auckland</text>
+  <line x1="36" y1="184" x2="644" y2="184" stroke="#d0d7de"/>
+  <g>
+      <rect x="36.0" y="178" width="21.5" height="6" rx="3" fill="#40c463"><title>0:00 - 4 commits</title></rect>
+      <rect x="61.5" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>1:00 - 0 commits</title></rect>
+      <rect x="87.0" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>2:00 - 0 commits</title></rect>
+      <rect x="112.5" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>3:00 - 0 commits</title></rect>
+      <rect x="138.0" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>4:00 - 0 commits</title></rect>
+      <rect x="163.5" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>5:00 - 0 commits</title></rect>
+      <rect x="189.0" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>6:00 - 0 commits</title></rect>
+      <rect x="214.5" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>7:00 - 0 commits</title></rect>
+      <rect x="240.0" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>8:00 - 0 commits</title></rect>
+      <rect x="265.5" y="181" width="21.5" height="3" rx="3" fill="#40c463"><title>9:00 - 2 commits</title></rect>
+      <rect x="291.0" y="176" width="21.5" height="8" rx="3" fill="#40c463"><title>10:00 - 5 commits</title></rect>
+      <rect x="316.5" y="145" width="21.5" height="39" rx="3" fill="#40c463"><title>11:00 - 25 commits</title></rect>
+      <rect x="342.0" y="170" width="21.5" height="14" rx="3" fill="#40c463"><title>12:00 - 9 commits</title></rect>
+      <rect x="367.5" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>13:00 - 1 commits</title></rect>
+      <rect x="393.0" y="182" width="21.5" height="2" rx="3" fill="#40c463"><title>14:00 - 1 commits</title></rect>
+      <rect x="418.5" y="175" width="21.5" height="9" rx="3" fill="#40c463"><title>15:00 - 6 commits</title></rect>
+      <rect x="444.0" y="156" width="21.5" height="28" rx="3" fill="#40c463"><title>16:00 - 18 commits</title></rect>
+      <rect x="469.5" y="181" width="21.5" height="3" rx="3" fill="#40c463"><title>17:00 - 2 commits</title></rect>
+      <rect x="495.0" y="170" width="21.5" height="14" rx="3" fill="#40c463"><title>18:00 - 9 commits</title></rect>
+      <rect x="520.5" y="156" width="21.5" height="28" rx="3" fill="#40c463"><title>19:00 - 18 commits</title></rect>
+      <rect x="546.0" y="130" width="21.5" height="54" rx="3" fill="#40c463"><title>20:00 - 34 commits</title></rect>
+      <rect x="571.5" y="72" width="21.5" height="112" rx="3" fill="#0969da"><title>21:00 - 71 commits</title></rect>
+      <rect x="597.0" y="72" width="21.5" height="112" rx="3" fill="#0969da"><title>22:00 - 71 commits</title></rect>
+      <rect x="622.5" y="129" width="21.5" height="55" rx="3" fill="#40c463"><title>23:00 - 35 commits</title></rect>
+  </g>
+  <g>
+      <text x="46.8" y="206" text-anchor="middle" class="axis">0</text>
+      <text x="199.8" y="206" text-anchor="middle" class="axis">6</text>
+      <text x="352.8" y="206" text-anchor="middle" class="axis">12</text>
+      <text x="505.8" y="206" text-anchor="middle" class="axis">18</text>
+      <text x="633.3" y="206" text-anchor="middle" class="axis">23</text>
+  </g>
+  <text x="36" y="226" class="axis">hour of day</text>
+  <text x="644" y="226" text-anchor="end" class="label">most active: 21:00-22:00 | 71 commits</text>
+</svg>

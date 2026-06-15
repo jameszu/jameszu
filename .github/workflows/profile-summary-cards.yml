@@ -1,22 +1,51 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub Profile Summary Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  schedule:
+    - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: generate selected cards
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+
+      - name: Download selected cards
+        shell: bash
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ github.token }}
+          COMMIT_HOUR_TIMEZONE: Pacific/Auckland
+        run: |
+          set -euo pipefail
+          output_dir="profile-summary-card-output/github"
+          base_url="https://github-profile-summary-cards.vercel.app/api/cards"
+          username="${{ github.repository_owner }}"
 
-          UTC_OFFSET: 12
+          mkdir -p "$output_dir"
+          curl -fsSL "$base_url/profile-details?username=$username&theme=github" -o "$output_dir/0-profile-details.svg"
+          curl -fsSL "$base_url/repos-per-language?username=$username&theme=github" -o "$output_dir/1-repos-per-language.svg"
+          curl -fsSL "$base_url/most-commit-language?username=$username&theme=github" -o "$output_dir/2-most-commit-language.svg"
+          curl -fsSL "$base_url/stats?username=$username&theme=github" -o "$output_dir/3-stats.svg"
+          node scripts/generate-commit-hours.mjs metrics/commit-hours.svg
 
+      - name: Commit updated cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -z "$(git status --porcelain profile-summary-card-output/github metrics/commit-hours.svg)" ]]; then
+            echo "No profile card changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/github/*.svg
+          git add metrics/commit-hours.svg
+          git commit -m "Update profile summary cards"
+          git push

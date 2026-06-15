@@ -1,71 +1,76 @@
-# James You
-## From China with Love
-#### Interests
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css">
+# Hi, I'm James You 👋
+## ☁️ Cloud • DevOps • AI • Full-stack Software
+
+> Turning cloud infrastructure, automation, and AI ideas into practical software that ships.
+
+#### 🧰 Tech Stack
 
 <p align="left">
     <a target="_blank" href="https://dev.azure.com/msa-devops-2020-james/msa-devops-2020-james">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+        <img src="./assets/icons/azure.svg" alt="Azure" width="40" height="40"/>
+    </a>
+    <a target="_blank" href="https://aws.amazon.com/certification/">
+        <img src="./assets/icons/aws.svg" alt="AWS" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/First-netlify">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+        <img src="./assets/icons/html5.svg" alt="HTML5" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/First-netlify">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/>
-    </a> 
+        <img src="./assets/icons/css3.svg" alt="CSS3" width="40" height="40"/>
+    </a>
     <a target="_blank" href="https://github.com/jameszu/First-netlify">
-        <img src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" alt="javascript" width="40" height="40"/>
+        <img src="./assets/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://www.adobe.com/nz/products/photoshop.html">
-        <img src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" alt="photoshop" width="40" height="40"/>
+        <img src="./assets/icons/photoshop.svg" alt="Photoshop" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/leetcode-time">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
+        <img src="./assets/icons/python.svg" alt="Python" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/msa-devops-2020">
-        <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="react" width="40" height="40"/>
+        <img src="./assets/icons/react.svg" alt="React" width="40" height="40"/>
     </a>
     <a target="_blank" href="https://github.com/jameszu/msa-devops-2020">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
+        <img src="./assets/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
     </a>
 </p>
 
-<!-- Insert your script here and it won’t show up.
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"/>
- -->
+#### 🏅 Certifications
 
-<!--
-**jameszu/jameszu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="left">
+    <a target="_blank" href="https://www.credly.com/badges/17dbe2bb-2a9d-4f58-9e72-5384fc677b78/public_url">
+        <img src="./assets/certs/aws-devops-professional.png" alt="AWS Certified DevOps Engineer – Professional" title="AWS Certified DevOps Engineer – Professional" width="92"/>
+    </a>
+    <a target="_blank" href="https://www.credly.com/badges/049532e5-a90d-46d0-925d-c75d601aa988/public_url">
+        <img src="./assets/certs/aws-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" width="92"/>
+    </a>
+    <a target="_blank" href="https://www.credly.com/badges/507ef089-409a-46f0-bda1-22fae4016d06">
+        <img src="./assets/certs/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="92"/>
+    </a>
+    <a target="_blank" href="https://www.credly.com/badges/f74b335a-fdb6-4127-8290-6e3e83809670/public_url">
+        <img src="./assets/certs/azure-ai-fundamentals.png" alt="Microsoft Certified: Azure AI Fundamentals" title="Microsoft Certified: Azure AI Fundamentals" width="92"/>
+    </a>
+    <a target="_blank" href="https://www.credly.com/badges/e31bb1f8-18e6-480f-b64f-f182701026e6?source=linked_in_profile">
+        <img src="./assets/certs/azure-fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" title="Microsoft Certified: Azure Fundamentals" width="92"/>
+    </a>
+</p>
 
-### **Every day is a new day~**
-- 🔭 I’m currently a FOURTH/FINAL year BAdvSci(Hons) student majoring in Computer Science
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on human
-- 🤔 I’m looking for the meaning of my life, the universe and everyting 
-- 💬 Ask me about anything u want, I'll google it
-- 📫 How to reach me: ~~Come to the University of Auckland~~ ; ) | Email: yddjames@gmail.com or <a href="https://www.linkedin.com/in/jams-you/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-- 😄 Pronouns: person
-- ⚡ Fun fact: 《placeholders》
-<br><br>
+#### 🚀 About
 
+- ☁️ Building around cloud infrastructure, automation, and web applications.
+- ⚙️ Interested in DevOps, distributed systems, AI tooling, and practical software delivery.
+- 📬 Reach me at [jamesyou.careers@gmail.com](mailto:jamesyou.careers@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jams-you/).
+
+#### 📊 GitHub Snapshot
 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jameszu/jameszu/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./metrics/commit-hours.svg)](./metrics/commit-hours.svg)
 </div>
 
+#### 🎮 GLHF
 
-# GLHF😃
-
-![snake gif](https://github.com/jameszu/jameszu/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
+![snake gif](https://raw.githubusercontent.com/jameszu/jameszu/output/github-contribution-grid-snake.svg)
