@@ -16,11 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download selected cards
+      - name: Generate selected cards
         shell: bash
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN || github.token }}
           COMMIT_HOUR_TIMEZONE: Pacific/Auckland
+          COMMIT_HOUR_PERIOD_YEARS: "10"
+          REQUIRE_PRIVATE_REPOSITORIES: "true"
         run: |
           set -euo pipefail
           output_dir="profile-summary-card-output/github"
@@ -29,10 +31,8 @@ jobs:
 
           mkdir -p "$output_dir"
           curl -fsSL "$base_url/profile-details?username=$username&theme=github" -o "$output_dir/0-profile-details.svg"
-          curl -fsSL "$base_url/repos-per-language?username=$username&theme=github" -o "$output_dir/1-repos-per-language.svg"
-          curl -fsSL "$base_url/most-commit-language?username=$username&theme=github" -o "$output_dir/2-most-commit-language.svg"
           curl -fsSL "$base_url/stats?username=$username&theme=github" -o "$output_dir/3-stats.svg"
-          node scripts/generate-commit-hours.mjs metrics/commit-hours.svg
+          node scripts/generate-profile-metrics.mjs .
 
       - name: Commit updated cards
         shell: bash
