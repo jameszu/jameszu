@@ -8,7 +8,7 @@
   </style>
   <rect x="1" y="1" width="678" height="248" rx="6" fill="#ffffff" stroke="#d0d7de"/>
   <text x="30" y="38" class="title">Commit Hours - Last 10 Years</text>
-  <text x="30" y="58" class="subtitle">2016-06-21 to 2026-06-21 | 695 commits | 51 repos | public + private | Pacific/Auckland</text>
+  <text x="30" y="58" class="subtitle">2016-06-22 to 2026-06-22 | 695 commits | 51 repos | public + private | Pacific/Auckland</text>
   <line x1="36" y1="184" x2="644" y2="184" stroke="#d0d7de"/>
   <g>
       <rect x="36.0" y="156" width="21.5" height="28" rx="3" fill="#40c463"><title>0:00 - 34 commits</title></rect>
