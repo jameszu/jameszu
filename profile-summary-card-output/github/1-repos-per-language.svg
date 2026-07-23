@@ -22,15 +22,15 @@
     <text x="316" y="104" text-anchor="end" class="value">18.2%</text>
   </g>
   <g>
-    <text x="24" y="128" class="language">Other</text>
+    <text x="24" y="128" class="language">Python</text>
     <rect x="118" y="118" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="118" width="100" height="10" rx="5" fill="#bf8700"><title>Other: 8 repositories</title></rect>
-    <text x="316" y="128" text-anchor="end" class="value">14.5%</text>
+    <rect x="118" y="118" width="113" height="10" rx="5" fill="#3572A5"><title>Python: 9 repositories</title></rect>
+    <text x="316" y="128" text-anchor="end" class="value">16.4%</text>
   </g>
   <g>
-    <text x="24" y="152" class="language">Python</text>
+    <text x="24" y="152" class="language">Other</text>
     <rect x="118" y="142" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="142" width="100" height="10" rx="5" fill="#3572A5"><title>Python: 8 repositories</title></rect>
+    <rect x="118" y="142" width="100" height="10" rx="5" fill="#8250df"><title>Other: 8 repositories</title></rect>
     <text x="316" y="152" text-anchor="end" class="value">14.5%</text>
   </g>
   <g>
