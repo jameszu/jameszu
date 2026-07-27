@@ -16,16 +16,16 @@
     <text x="316" y="80" text-anchor="end" class="value">21.1%</text>
   </g>
   <g>
-    <text x="24" y="104" class="language">Other</text>
+    <text x="24" y="104" class="language">TypeScript</text>
     <rect x="118" y="94" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="94" width="125" height="10" rx="5" fill="#40c463"><title>Other: 10 repositories</title></rect>
-    <text x="316" y="104" text-anchor="end" class="value">17.5%</text>
+    <rect x="118" y="94" width="138" height="10" rx="5" fill="#3178c6"><title>TypeScript: 11 repositories</title></rect>
+    <text x="316" y="104" text-anchor="end" class="value">19.3%</text>
   </g>
   <g>
-    <text x="24" y="128" class="language">TypeScript</text>
+    <text x="24" y="128" class="language">Other</text>
     <rect x="118" y="118" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="118" width="125" height="10" rx="5" fill="#3178c6"><title>TypeScript: 10 repositories</title></rect>
-    <text x="316" y="128" text-anchor="end" class="value">17.5%</text>
+    <rect x="118" y="118" width="113" height="10" rx="5" fill="#bf8700"><title>Other: 9 repositories</title></rect>
+    <text x="316" y="128" text-anchor="end" class="value">15.8%</text>
   </g>
   <g>
     <text x="24" y="152" class="language">HTML</text>
