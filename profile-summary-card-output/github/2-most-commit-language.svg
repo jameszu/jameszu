@@ -8,35 +8,35 @@
   </style>
   <rect x="1" y="1" width="338" height="198" rx="6" fill="#ffffff" stroke="#d0d7de"/>
   <text x="24" y="34" class="title">Top Languages by Commit</text>
-  <text x="24" y="53" class="subtitle">797 commits | 54 repos | all history | public + private</text>
+  <text x="24" y="53" class="subtitle">802 commits | 54 repos | all history | public + private</text>
   <g>
     <text x="24" y="80" class="language">HTML</text>
     <rect x="118" y="70" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="70" width="150" height="10" rx="5" fill="#e34c26"><title>HTML: 233 commits</title></rect>
-    <text x="316" y="80" text-anchor="end" class="value">29.2%</text>
+    <rect x="118" y="70" width="150" height="10" rx="5" fill="#e34c26"><title>HTML: 238 commits</title></rect>
+    <text x="316" y="80" text-anchor="end" class="value">29.7%</text>
   </g>
   <g>
     <text x="24" y="104" class="language">TypeScript</text>
     <rect x="118" y="94" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="94" width="108" height="10" rx="5" fill="#3178c6"><title>TypeScript: 167 commits</title></rect>
-    <text x="316" y="104" text-anchor="end" class="value">21.0%</text>
+    <rect x="118" y="94" width="105" height="10" rx="5" fill="#3178c6"><title>TypeScript: 167 commits</title></rect>
+    <text x="316" y="104" text-anchor="end" class="value">20.8%</text>
   </g>
   <g>
     <text x="24" y="128" class="language">Python</text>
     <rect x="118" y="118" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="118" width="90" height="10" rx="5" fill="#3572A5"><title>Python: 140 commits</title></rect>
-    <text x="316" y="128" text-anchor="end" class="value">17.6%</text>
+    <rect x="118" y="118" width="88" height="10" rx="5" fill="#3572A5"><title>Python: 140 commits</title></rect>
+    <text x="316" y="128" text-anchor="end" class="value">17.5%</text>
   </g>
   <g>
     <text x="24" y="152" class="language">JavaScript</text>
     <rect x="118" y="142" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="142" width="83" height="10" rx="5" fill="#f1e05a"><title>JavaScript: 129 commits</title></rect>
-    <text x="316" y="152" text-anchor="end" class="value">16.2%</text>
+    <rect x="118" y="142" width="81" height="10" rx="5" fill="#f1e05a"><title>JavaScript: 129 commits</title></rect>
+    <text x="316" y="152" text-anchor="end" class="value">16.1%</text>
   </g>
   <g>
     <text x="24" y="176" class="language">C#</text>
     <rect x="118" y="166" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="166" width="26" height="10" rx="5" fill="#178600"><title>C#: 40 commits</title></rect>
+    <rect x="118" y="166" width="25" height="10" rx="5" fill="#178600"><title>C#: 40 commits</title></rect>
     <text x="316" y="176" text-anchor="end" class="value">5.0%</text>
   </g>
 </svg>
