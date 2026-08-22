@@ -8,7 +8,7 @@
   </style>
   <rect x="1" y="1" width="678" height="248" rx="6" fill="#ffffff" stroke="#d0d7de"/>
   <text x="30" y="38" class="title">Commit Hours - Last 10 Years</text>
-  <text x="30" y="58" class="subtitle">2016-08-21 to 2026-08-21 | 915 commits | 54 repos | public + private | Pacific/Auckland</text>
+  <text x="30" y="58" class="subtitle">2016-08-22 to 2026-08-22 | 918 commits | 54 repos | public + private | Pacific/Auckland</text>
   <line x1="36" y1="184" x2="644" y2="184" stroke="#d0d7de"/>
   <g>
       <rect x="36.0" y="157" width="21.5" height="27" rx="3" fill="#40c463"><title>0:00 - 36 commits</title></rect>
@@ -32,7 +32,7 @@
       <rect x="495.0" y="162" width="21.5" height="22" rx="3" fill="#40c463"><title>18:00 - 29 commits</title></rect>
       <rect x="520.5" y="152" width="21.5" height="32" rx="3" fill="#40c463"><title>19:00 - 42 commits</title></rect>
       <rect x="546.0" y="77" width="21.5" height="107" rx="3" fill="#40c463"><title>20:00 - 142 commits</title></rect>
-      <rect x="571.5" y="98" width="21.5" height="86" rx="3" fill="#40c463"><title>21:00 - 114 commits</title></rect>
+      <rect x="571.5" y="96" width="21.5" height="88" rx="3" fill="#40c463"><title>21:00 - 117 commits</title></rect>
       <rect x="597.0" y="72" width="21.5" height="112" rx="3" fill="#0969da"><title>22:00 - 149 commits</title></rect>
       <rect x="622.5" y="101" width="21.5" height="83" rx="3" fill="#40c463"><title>23:00 - 110 commits</title></rect>
   </g>
