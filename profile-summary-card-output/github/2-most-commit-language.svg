@@ -8,12 +8,12 @@
   </style>
   <rect x="1" y="1" width="338" height="198" rx="6" fill="#ffffff" stroke="#d0d7de"/>
   <text x="24" y="34" class="title">Top Languages by Commit</text>
-  <text x="24" y="53" class="subtitle">995 commits | 54 repos | all history | public + private</text>
+  <text x="24" y="53" class="subtitle">997 commits | 54 repos | all history | public + private</text>
   <g>
     <text x="24" y="80" class="language">HTML</text>
     <rect x="118" y="70" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="70" width="150" height="10" rx="5" fill="#e34c26"><title>HTML: 431 commits</title></rect>
-    <text x="316" y="80" text-anchor="end" class="value">43.3%</text>
+    <rect x="118" y="70" width="150" height="10" rx="5" fill="#e34c26"><title>HTML: 433 commits</title></rect>
+    <text x="316" y="80" text-anchor="end" class="value">43.4%</text>
   </g>
   <g>
     <text x="24" y="104" class="language">TypeScript</text>
@@ -24,14 +24,14 @@
   <g>
     <text x="24" y="128" class="language">Python</text>
     <rect x="118" y="118" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="118" width="49" height="10" rx="5" fill="#3572A5"><title>Python: 140 commits</title></rect>
-    <text x="316" y="128" text-anchor="end" class="value">14.1%</text>
+    <rect x="118" y="118" width="48" height="10" rx="5" fill="#3572A5"><title>Python: 140 commits</title></rect>
+    <text x="316" y="128" text-anchor="end" class="value">14.0%</text>
   </g>
   <g>
     <text x="24" y="152" class="language">JavaScript</text>
     <rect x="118" y="142" width="150" height="10" rx="5" fill="#eff2f5"/>
     <rect x="118" y="142" width="45" height="10" rx="5" fill="#f1e05a"><title>JavaScript: 129 commits</title></rect>
-    <text x="316" y="152" text-anchor="end" class="value">13.0%</text>
+    <text x="316" y="152" text-anchor="end" class="value">12.9%</text>
   </g>
   <g>
     <text x="24" y="176" class="language">C#</text>
