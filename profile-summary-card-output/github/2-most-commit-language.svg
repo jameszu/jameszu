@@ -8,11 +8,11 @@
   </style>
   <rect x="1" y="1" width="338" height="198" rx="6" fill="#ffffff" stroke="#d0d7de"/>
   <text x="24" y="34" class="title">Top Languages by Commit</text>
-  <text x="24" y="53" class="subtitle">1074 commits | 54 repos | all history | public + private</text>
+  <text x="24" y="53" class="subtitle">1075 commits | 54 repos | all history | public + private</text>
   <g>
     <text x="24" y="80" class="language">HTML</text>
     <rect x="118" y="70" width="150" height="10" rx="5" fill="#eff2f5"/>
-    <rect x="118" y="70" width="150" height="10" rx="5" fill="#e34c26"><title>HTML: 510 commits</title></rect>
+    <rect x="118" y="70" width="150" height="10" rx="5" fill="#e34c26"><title>HTML: 511 commits</title></rect>
     <text x="316" y="80" text-anchor="end" class="value">47.5%</text>
   </g>
   <g>
